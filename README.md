@@ -11,3 +11,6 @@ V2 will likely have a version with cannibalized extension port cable connector. 
 
 
 Any other questions @ me on twitter.  @cyothevile
+
+
+Soon I will have photo of it assembled.
