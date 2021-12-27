@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name promicro)(type KiCad)(uri ${IMPORTED}/ProMicroKiCad-master/promicro.pretty)(options "")(descr ""))
+  (lib (name "Saturn for MISTER")(type KiCad)(uri "D:/kicad/Saturn Authentic controller mister/Saturn for MISTER")(options "")(descr ""))
+  (lib (name "Saturn Authentic controller mister")(type KiCad)(uri "D:/kicad/Saturn Authentic controller mister")(options "")(descr ""))
+)
