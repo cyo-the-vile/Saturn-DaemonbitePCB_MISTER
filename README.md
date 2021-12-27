@@ -2,7 +2,7 @@
 Saturn-DaemonbitePCB_MISTER
 
 
-Uses Authentic Saturn controller ports from a Sega Saturn along with MickGyver's Daemonbite firmware to use a Sega Saturn controller with MISTER FPGA
+Uses Authentic Saturn controller ports from a Sega Saturn along with MickGyver's Daemonbite firmware to use a Sega Saturn controller with MISTER FPGA. You will need an Arduino PRO micro.  
 
 
 Take the ZIP file to your favorite fab house such as JLCPCB.  
